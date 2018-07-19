@@ -1,0 +1,3 @@
+[submodule "circuitpython-APDS9960"]
+	path = circuitpython-APDS9960
+	url = git@github.com:nodebotanist/circuitpython-APDS9960.git
